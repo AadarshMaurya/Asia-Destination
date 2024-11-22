@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 
 const destinations = [
-  { name: "Thailand", video: "./assets/Thailand.mov" },
+  { name: "Thailand", video: "./assets/Thailand.mp4" },
   { name: "Dubai", video: "./assets/Dubai.mp4" },
   { name: "Malaysia", video: "./assets/Malaysia.mp4" },
   { name: "Singapore", video: "./assets/Singapore.mp4" },

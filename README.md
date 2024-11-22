@@ -29,4 +29,4 @@ This is a travel and tourism website designed to provide an engaging experience 
 
    ```bash
    git clone https://github.com/yourusername/travel-tourism-website.git
-   cd travel-tourism-website
+   cd asiadestination
