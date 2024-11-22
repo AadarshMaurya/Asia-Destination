@@ -38,7 +38,7 @@ const Services = () => {
   return (
     <div
       id="services"
-      className="relative min-h-screen flex flex-col justify-center items-center bg-gradient-to-b from-blue-500 via-blue-600 to-blue-800 p-6 text-white"
+      className="relative min-h-screen flex flex-col justify-center items-center bg-gradient-to-b from-blue-500 via-blue-600 to-blue-800 p-6 text-white pt-16"
     >
       {/* Section Title */}
       <motion.section
@@ -70,7 +70,7 @@ const Services = () => {
             whileHover={{
               scale: 1.1,
               rotate: 2,
-              boxShadow: "0px 15px 30px rgba(0, 0, 255, 0.5) " ,
+              boxShadow: "0px 15px 30px rgba(0, 0, 255, 0.5)",
             }}
           >
             {/* Inner Content with hover animation */}
@@ -78,9 +78,7 @@ const Services = () => {
               className="relative h-full flex items-center justify-center"
               whileHover={{ scale: 1.05 }}
             >
-              <p className="text-lg font-semibold text-gray-800">
-                {service}
-              </p>
+              <p className="text-lg font-semibold text-gray-800">{service}</p>
             </motion.div>
           </motion.div>
         ))}

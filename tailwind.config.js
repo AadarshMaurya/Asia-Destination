@@ -7,11 +7,10 @@ export default {
   theme: {
     extend: {
 
+   
 
 
-      fontFamily: {
-        
-      },
+    
 
       animation: {
         fadeIn: "fadeIn 1s ease-in-out",
