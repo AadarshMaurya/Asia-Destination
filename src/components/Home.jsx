@@ -1,10 +1,10 @@
 import { useEffect, useState } from "react";
 
 const destinations = [
-  { name: "Thailand", video: "./src/assets/Thailand.mov" },
-  { name: "Dubai", video: "./src/assets/Dubai.mp4" },
-  { name: "Malaysia", video: "./src/assets/Malaysia.mp4" },
-  { name: "Singapore", video: "./src/assets/Singapore.mp4" },
+  { name: "Thailand", video: "./assets/Thailand.mov" },
+  { name: "Dubai", video: "./assets/Dubai.mp4" },
+  { name: "Malaysia", video: "./assets/Malaysia.mp4" },
+  { name: "Singapore", video: "./assets/Singapore.mp4" },
 ];
 
 const HomePage = () => {

@@ -62,9 +62,9 @@ const Destination = () => {
       description:
         "Known for its golden beaches, vibrant nightlife, and rich cultural heritage, Thailand is a tropical paradise. Explore ancient temples, indulge in delicious street food, and relax in luxurious resorts.",
       images: [
-        "./src/assets/Images/thailand-1.jpg",
-        "./src/assets/Images/thailand-2.jpg",
-        "./src/assets/Images/thailand-3.jpg",
+        "./assets/Images/thailand-1.jpg",
+        "./assets/Images/thailand-2.jpg",
+        "./assets/Images/thailand-3.jpg",
       ],
     },
     {
@@ -72,9 +72,9 @@ const Destination = () => {
       description:
         "A city of futuristic skyscrapers, opulent shopping malls, and cultural landmarks, Dubai is a gateway to luxury and adventure. Experience desert safaris, iconic landmarks like the Burj Khalifa, and world-class entertainment.",
       images: [
-        "./src/assets/Images/dubai-2.jpg",
-        "./src/assets/Images/dubai-3.jpg",
-        "./src/assets/Images/dubai-1.jpg",
+        "./assets/Images/dubai-2.jpg",
+        "./assets/Images/dubai-3.jpg",
+        "./assets/Images/dubai-1.jpg",
       ],
     },
     {
@@ -82,9 +82,9 @@ const Destination = () => {
       description:
         "From bustling cities like Kuala Lumpur to serene rainforests and stunning islands, Malaysia is a diverse destination. Don’t miss the Petronas Towers, Cameron Highlands, and the beaches of Langkawi.",
       images: [
-        "./src/assets/Images/malaysia-1.jpg",
-        "./src/assets/Images/malaysia-2.jpg",
-        "./src/assets/Images/malaysia-3.jpg",
+        "./assets/Images/malaysia-1.jpg",
+        "./assets/Images/malaysia-2.jpg",
+        "./assets/Images/malaysia-3.jpg",
       ],
     },
     {
@@ -92,10 +92,10 @@ const Destination = () => {
       description:
         "Singapore offers a perfect blend of modernity and tradition. Visit the futuristic Gardens by the Bay, iconic Marina Bay Sands, and immerse yourself in the bustling streets of Chinatown.",
       images: [
-        "./src/assets/Images/singapore-2.jpg",
-        "./src/assets/Images/singapore-1.jpg",
+        "./assets/Images/singapore-2.jpg",
+        "./assets/Images/singapore-1.jpg",
 
-        "./src/assets/Images/singapore-3.jpg",
+        "./assets/Images/singapore-3.jpg",
       ],
     },
     {
@@ -103,9 +103,9 @@ const Destination = () => {
       description:
         "An archipelago with over 17,000 islands, Indonesia is famed for Bali’s beaches, Java’s volcanoes, and the untouched beauty of Raja Ampat. It's a haven for nature and adventure enthusiasts.",
       images: [
-        "./src/assets/Images/indonesia-1.jpg",
-        "./src/assets/Images/indonesia-2.jpg",
-        "./src/assets/Images/indonesia-3.jpg",
+        "./assets/Images/indonesia-1.jpg",
+        "./assets/Images/indonesia-2.jpg",
+        "./assets/Images/indonesia-3.jpg",
       ],
     },
     {
@@ -113,10 +113,10 @@ const Destination = () => {
       description:
         "Vietnam is a land of stunning landscapes and deep history. Cruise through Ha Long Bay, explore the historic streets of Hanoi, and savor the local delicacies like pho and banh mi.",
       images: [
-        "./src/assets/Images/vietnam-2.jpg",
-        "./src/assets/Images/vietnam-1.jpg",
+        "./assets/Images/vietnam-2.jpg",
+        "./assets/Images/vietnam-1.jpg",
 
-        "./src/assets/Images/vietnam-3.jpg",
+        "./assets/Images/vietnam-3.jpg",
       ],
     },
     {
@@ -124,9 +124,9 @@ const Destination = () => {
       description:
         "Home to the majestic Himalayas, Nepal is a spiritual haven for trekkers and culture lovers. Visit the birthplace of Buddha, the bustling streets of Kathmandu, and embark on a journey to Everest Base Camp.",
       images: [
-        "./src/assets/Images/nepal-1.jpg",
-        "./src/assets/Images/nepal-2.jpg",
-        "./src/assets/Images/nepal-3.jpg",
+        "./assets/Images/nepal-1.jpg",
+        "./assets/Images/nepal-2.jpg",
+        "./assets/Images/nepal-3.jpg",
         
         
         
