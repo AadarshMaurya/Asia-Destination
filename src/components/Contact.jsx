@@ -53,7 +53,7 @@ const Contact = () => {
     `;
 
     // Redirect to the email client with pre-filled content
-    window.location.href = `mailto:aadimaurya2000@gmail.com?subject=Inquiry from ${formData.name}&body=${encodeURIComponent(emailBody)}`;
+    window.location.href = `mailto:sales.asiadestination@gmail.com?subject=Inquiry from ${formData.name}&body=${encodeURIComponent(emailBody)}`;
   };
 
   return (
@@ -180,8 +180,8 @@ const Contact = () => {
             <h2 className="text-3xl font-bold text-gray-800 mb-4">Asia Destination</h2>
             <h2 className="text-3xl font-semibold text-gray-800 mb-4">India Office</h2>
             <p className="text-gray-600 mb-2">Dadar, 400001, Mumbai</p>
-            <p className="text-gray-600 mb-2">Phone: +91 7057495603</p>
-            <p className="text-gray-600 mb-4">Email: mandanivikcy183@gmail.com</p>
+            <p className="text-gray-600 mb-2">Phone: +91 9284144359</p>
+            <p className="text-gray-600 mb-4">Email: sales.asiadestination@gmail.com</p>
           </div>
 
           {/* Singapore Office Section */}
@@ -189,8 +189,8 @@ const Contact = () => {
             <h2 className="text-3xl font-bold text-gray-800 mb-4">Asia Destination</h2>
             <h2 className="text-3xl font-semibold text-gray-800 mb-4">Singapore Office</h2>
             <p className="text-gray-600 mb-2">456, Orchard Road, Singapore</p>
-            <p className="text-gray-600 mb-2">Phone: +65-987-654-3210</p>
-            <p className="text-gray-600 mb-4">Email: singapore.office@example.com</p>
+            <p className="text-gray-600 mb-2">Phone: +91 9284144359</p>
+            <p className="text-gray-600 mb-4">Email: sales.asiadestination@gmail.com</p>
           </div>
         </div>
       </div>
@@ -198,7 +198,7 @@ const Contact = () => {
       {/* WhatsApp Floating Icon */}
       
 <a
-  href="https://wa.me/+917057495603?text=Hi"
+  href="https://wa.me/+919284144359?text=Hi"
   target="_blank"
   rel="noopener noreferrer"
   className="fixed bottom-20 right-8 bg-green-500 p-4 rounded-full shadow-lg hover:scale-110 transition-transform duration-300 z-20"
