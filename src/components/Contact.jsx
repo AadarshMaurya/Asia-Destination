@@ -179,19 +179,21 @@ const Contact = () => {
           <div className="p-8 bg-white rounded-lg shadow-lg text-center transform hover:scale-105 transition-all duration-300 ease-in-out relative z-10">
             <h2 className="text-3xl font-bold text-gray-800 mb-4">Asia Destination</h2>
             <h2 className="text-3xl font-semibold text-gray-800 mb-4">India Office</h2>
-            <p className="text-gray-600 mb-2">Dadar, 400001, Mumbai</p>
+            <p className="text-gray-600 mb-2">Office 701 , Greenland NX</p>
+            <p className="text-gray-600 mb-2">Shiv Ganga Nagar,  Thane 421501</p>
+            
             <p className="text-gray-600 mb-2">Phone: +91 9284144359</p>
-            <p className="text-gray-600 mb-4">Email: sales.asiadestination@gmail.com</p>
+            <p className="text-gray-600 mb-4 font-bold">Email: sales.asiadestination@gmail.com</p>
           </div>
 
           {/* Singapore Office Section */}
-          <div className="p-8 bg-white rounded-lg shadow-lg text-center transform hover:scale-105 transition-all duration-300 ease-in-out relative z-10">
+          {/* <div className="p-8 bg-white rounded-lg shadow-lg text-center transform hover:scale-105 transition-all duration-300 ease-in-out relative z-10">
             <h2 className="text-3xl font-bold text-gray-800 mb-4">Asia Destination</h2>
             <h2 className="text-3xl font-semibold text-gray-800 mb-4">Singapore Office</h2>
             <p className="text-gray-600 mb-2">456, Orchard Road, Singapore</p>
             <p className="text-gray-600 mb-2">Phone: +91 9284144359</p>
             <p className="text-gray-600 mb-4">Email: sales.asiadestination@gmail.com</p>
-          </div>
+          </div> */}
         </div>
       </div>
 
