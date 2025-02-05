@@ -180,7 +180,7 @@ const Contact = () => {
             <h2 className="text-3xl font-bold text-gray-800 mb-4">Asia Destination</h2>
             <h2 className="text-3xl font-semibold text-gray-800 mb-4">India Office</h2>
             <p className="text-gray-600 mb-2">Office 701 , Greenland NX</p>
-            <p className="text-gray-600 mb-2">Shiv Ganga Nagar,  Thane 421501</p>
+            <p className="text-gray-600 mb-2">Shiv Ganga Nagar,  Thane 421501</p>
             
             <p className="text-gray-600 mb-2">Phone: +91 9284144359</p>
             <p className="text-gray-600 mb-4 font-bold">Email: sales.asiadestination@gmail.com</p>
